@@ -1,2 +1,0 @@
-# algoritmalar
-Algoritma Ödevleri
