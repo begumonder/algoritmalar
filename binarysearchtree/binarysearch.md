@@ -10,17 +10,15 @@
 
 Dizinin ilk elemanı root olarak kabul edilir bu nedenle root, 7'dir. Onun birinden bağımsız olarak küçükler sola, büyükler Sağ olacak şekilde ağacın yeri yerleştirilir.
 
-* deneme 1
+***
 
-              7
-            /   \
-          5       9
-         / \     /
-        3   6   8
-       / \
-      1   4
-     / \
-    0   2
+                 7
+              /     \
+             3       9
+           /  \     / 
+         1     5   8
+        / \    /\
+       0   2  4  6 
 
 
 ***
