@@ -25,18 +25,3 @@ Dizinin ilk elemanı root olarak kabul edilir bu nedenle root, 7'dir. Onun birin
 
 ***
 
-
-* deneme 2
-
-
-
-
-
-                 7
-              /     \
-             3       9
-           /  \     / 
-         1     5   8
-        / \    /\
-       0   2  4  6 
-
